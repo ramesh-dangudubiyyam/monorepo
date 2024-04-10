@@ -1,4 +1,9 @@
 {
   "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "version": "2.0.0"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "registry": "https://npm.pkg.github.com/ramesh-dangudubiyyam"
+    }
+  }
 }
