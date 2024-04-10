@@ -1,0 +1,11 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "components/*"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+}
